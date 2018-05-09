@@ -25,8 +25,9 @@ url: "https://mrmashmallow.github.io" # the base hostname & protocol for your si
 github_username: Mr_Mashmallow
 
 disqus:
-    shortname:  mr-mashmallows-site
-    timezone:  America/Los_Angeles
+  shortname:  mr-mashmallows-site
+
+timezone:  America/Los_Angeles
  
 # Build settings
 markdown: kramdown
