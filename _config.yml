@@ -26,6 +26,8 @@ github_username: Mr_Mashmallow
 
 disqus:
     shortname:  mr-mashmallows-site
+    timezone:  America/Los_Angeles
+ 
 # Build settings
 markdown: kramdown
 theme: minima
