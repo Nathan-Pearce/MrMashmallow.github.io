@@ -1,10 +1,9 @@
-----
+---
 layout: post
-title:"SecondPost"
-date:   2018-05-07 11:09:00 -0700
+title: " Second Post"
+date:  2018-05-07 11:01:00 -0700 
 categories: uncategorized
-
-----
+---
 
  I like Llamas 
  
