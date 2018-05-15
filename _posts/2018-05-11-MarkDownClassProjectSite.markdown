@@ -10,4 +10,5 @@ When I was in 7th grade, I took an Intro to Programming class and I learned CSS,
 Here is the link to one of my websites:
 
 [Website][url]
+
 [url] :   file:///Users/mac6/Documents/%20website/index.html
