@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Class Project Site"
+title: "Project Site"
 date:  2018-05-15 11:01:00 -0700 
 Author: Mr_Mashmallow
 categories: uncategorized
